@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="New Attendees" max_length="40" name="x_322420_markevent_new_attendees" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Event" max_length="40" name="event" reference="x_322420_markevent_event_location" reference_qual="locationSTARTSWITH^EQ" reference_qual_condition="locationSTARTSWITH^EQ" type="reference"/>
+        <element label="Last Name" max_length="40" name="last_name" type="string"/>
+        <index name="index">
+            <element name="event"/>
+        </index>
+    </element>
+</database>

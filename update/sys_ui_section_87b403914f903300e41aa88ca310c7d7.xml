@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Main Details" section_id="87b403914f903300e41aa88ca310c7d7" sys_domain="global" table="x_322420_markevent_attendees" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-27 14:31:23</sys_created_on>
+            <sys_id>661ca4444fa03300e41aa88ca310c791</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Main Details" display_value="Main Details" name="x_322420_markevent_attendees" sys_domain="global" view="Default view">87b403914f903300e41aa88ca310c7d7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-27 14:31:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>decimalnew</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-27 14:31:23</sys_created_on>
+            <sys_id>e61ca4444fa03300e41aa88ca310c791</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Main Details" display_value="Main Details" name="x_322420_markevent_attendees" sys_domain="global" view="Default view">87b403914f903300e41aa88ca310c7d7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-27 14:31:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>timenew</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-27 14:31:23</sys_created_on>
+            <sys_id>6a1ca4444fa03300e41aa88ca310c791</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Main Details" display_value="Main Details" name="x_322420_markevent_attendees" sys_domain="global" view="Default view">87b403914f903300e41aa88ca310c7d7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-27 14:31:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phonenumbernew</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-27 14:31:23</sys_created_on>
+            <sys_id>ea1ca4444fa03300e41aa88ca310c791</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Main Details" display_value="Main Details" name="x_322420_markevent_attendees" sys_domain="global" view="Default view">87b403914f903300e41aa88ca310c7d7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-27 14:31:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-27 14:31:23</sys_created_on>
+            <sys_id>6e1ca4444fa03300e41aa88ca310c791</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Main Details" display_value="Main Details" name="x_322420_markevent_attendees" sys_domain="global" view="Default view">87b403914f903300e41aa88ca310c7d7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-27 14:31:23</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>colournew</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-27 14:31:23</sys_created_on>
+            <sys_id>ee1ca4444fa03300e41aa88ca310c791</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Main Details" display_value="Main Details" name="x_322420_markevent_attendees" sys_domain="global" view="Default view">87b403914f903300e41aa88ca310c7d7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-27 14:31:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>datenew</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-27 14:31:23</sys_created_on>
+            <sys_id>621ca4444fa03300e41aa88ca310c792</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Main Details" display_value="Main Details" name="x_322420_markevent_attendees" sys_domain="global" view="Default view">87b403914f903300e41aa88ca310c7d7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-27 14:31:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>currencynew</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-27 14:31:23</sys_created_on>
+            <sys_id>e21ca4444fa03300e41aa88ca310c792</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Main Details" display_value="Main Details" name="x_322420_markevent_attendees" sys_domain="global" view="Default view">87b403914f903300e41aa88ca310c7d7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-27 14:31:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Main Details</caption>
+            <header>false</header>
+            <name>x_322420_markevent_attendees</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-19 12:34:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87b403914f903300e41aa88ca310c7d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Main Details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Marketing Event Application" source="x_322420_markevent">d58c10d94f403300e41aa88ca310c78c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Marketing Event Application">d58c10d94f403300e41aa88ca310c78c</sys_scope>
+            <sys_update_name>sys_ui_section_87b403914f903300e41aa88ca310c7d7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-19 12:34:57</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="jlist" label="JList" language="en" table="x_322420_markevent_attendees">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>jlist</element>
+            <help/>
+            <hint/>
+            <label>JList</label>
+            <language>en</language>
+            <name>x_322420_markevent_attendees</name>
+            <plural>JLists</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-28 12:39:11</sys_created_on>
+            <sys_id>b00c51944f203300e41aa88ca310c7a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>JList</sys_name>
+            <sys_package display_value="Marketing Event Application" source="x_322420_markevent">d58c10d94f403300e41aa88ca310c78c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Marketing Event Application">d58c10d94f403300e41aa88ca310c78c</sys_scope>
+            <sys_update_name>sys_documentation_x_322420_markevent_attendees_jlist_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-28 12:39:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

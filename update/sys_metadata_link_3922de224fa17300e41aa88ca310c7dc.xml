@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>de9112224fa17300e41aa88ca310c7ff</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_322420_markevent_event_details">
+    <x_322420_markevent_event_details action="INSERT_OR_UPDATE">
+        <event_name>Javascript</event_name>
+        <location>Delhi</location>
+        <sys_class_name>x_322420_markevent_event_details</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-24 09:22:36</sys_created_on>
+        <sys_id>de9112224fa17300e41aa88ca310c7ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-24 09:22:36</sys_updated_on>
+    </x_322420_markevent_event_details>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-24 09:24:51</sys_created_on>
+        <sys_id>3922de224fa17300e41aa88ca310c7dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Javascript</sys_name>
+        <sys_package display_value="Marketing Event Application" source="x_322420_markevent">d58c10d94f403300e41aa88ca310c78c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Event Application">d58c10d94f403300e41aa88ca310c78c</sys_scope>
+        <sys_update_name>sys_metadata_link_3922de224fa17300e41aa88ca310c7dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-24 09:24:51</sys_updated_on>
+        <tablename>x_322420_markevent_event_details</tablename>
+    </sys_metadata_link>
+</record_update>

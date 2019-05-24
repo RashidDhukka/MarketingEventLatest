@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>3da1da224fa17300e41aa88ca310c770</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_322420_markevent_attendees">
+    <x_322420_markevent_attendees action="INSERT_OR_UPDATE">
+        <attachments>0</attachments>
+        <audionew/>
+        <chnewfield/>
+        <colournew/>
+        <complete>56</complete>
+        <currencynew>0</currencynew>
+        <datenew/>
+        <datetimenew/>
+        <decimalnew/>
+        <duedatenew/>
+        <durationnew/>
+        <event_name display_value="Javascript">de9112224fa17300e41aa88ca310c7ff</event_name>
+        <fattachment/>
+        <filenew/>
+        <first_name>Rashid Dhukka</first_name>
+        <htmlnew/>
+        <iconnew>icon-document-attachment</iconnew>
+        <imagenew/>
+        <jlist/>
+        <jourinput/>
+        <journalnew/>
+        <journaltest/>
+        <listnew/>
+        <lstevenets/>
+        <phonenumbernew>+919619983422</phonenumbernew>
+        <pricenew>0</pricenew>
+        <status>Submitted</status>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-24 09:22:58</sys_created_on>
+        <sys_id>3da1da224fa17300e41aa88ca310c770</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-24 09:23:40</sys_updated_on>
+        <timenew>1969-12-31 18:30:00</timenew>
+    </x_322420_markevent_attendees>
+    <fx_price action="delete_multiple" query="id=3da1da224fa17300e41aa88ca310c770"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>pricenew</field>
+        <id>3da1da224fa17300e41aa88ca310c770</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-24 09:22:58</sys_created_on>
+        <sys_id>8ab1da224fa17300e41aa88ca310c723</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-24 09:22:58</sys_updated_on>
+        <table>x_322420_markevent_attendees</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-24 09:24:19</sys_created_on>
+        <sys_id>b902da224fa17300e41aa88ca310c70d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 24-05-2019 14:52:58</sys_name>
+        <sys_package display_value="Marketing Event Application" source="x_322420_markevent">d58c10d94f403300e41aa88ca310c78c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Event Application">d58c10d94f403300e41aa88ca310c78c</sys_scope>
+        <sys_update_name>sys_metadata_link_b902da224fa17300e41aa88ca310c70d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-24 09:24:19</sys_updated_on>
+        <tablename>x_322420_markevent_attendees</tablename>
+    </sys_metadata_link>
+</record_update>

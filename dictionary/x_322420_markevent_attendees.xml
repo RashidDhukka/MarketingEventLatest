@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="Attendees" max_length="40" name="x_322420_markevent_attendees" type="collection">
+        <element attributes="edge_encryption_enabled=true" calculation="(function calculatedFieldValue(current) {&#10;var attachCount = new GlideAggregate('sys_attachment');&#10;attachCount.addQuery('table_sys_id', current.sys_id);&#10;attachCount.addQuery('table_name',current.getTableName());&#10;attachCount.addAggregate('COUNT');&#10;attachCount.query();&#10;&#10;var numAttachments = 0;&#10;if (attachCount.next()) {&#10;numAttachments = attachCount.getAggregate(&quot;COUNT&quot;);&#10;}&#10;return numAttachments;&#10;})(current);" label="Attachments" max_length="40" name="attachments" type="integer" virtual="true"/>
+        <element attributes="edge_encryption_enabled=true" label="AudioNew" max_length="40" name="audionew" type="audio"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="chNewField" max_length="40" name="chnewfield" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="TestOne" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="TestTwo" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="TestThree" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Testfour" sequence="3" value="4"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="ColourNew" max_length="40" name="colournew" type="color"/>
+        <element attributes="edge_encryption_enabled=true" label="Complete (%)" max_length="40" name="complete" type="percent_complete"/>
+        <element attributes="omit_sys_original=true,edge_encryption_enabled=true" label="CurrencyNew" max_length="20" name="currencynew" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="DateNew" max_length="40" name="datenew" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Datetimenew" max_length="40" name="datetimenew" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="DecimalNew" max_length="20" name="decimalnew" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="DueDateNew" max_length="40" name="duedatenew" type="due_date"/>
+        <element attributes="edge_encryption_enabled=true" label="DurationNew" max_length="40" name="durationnew" type="glide_duration"/>
+        <element attributes="edge_encryption_enabled=true" label="Event Name" max_length="40" name="event_name" reference="x_322420_markevent_event_details" type="reference" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true" label="FAttachment" max_length="40" name="fattachment" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" label="FileNew" max_length="40" name="filenew" type="file_attachment"/>
+        <element audit="true" default="Enter Your Name" label="First Name L" max_length="40" name="first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="HTMLNew" max_length="8000" name="htmlnew" type="html"/>
+        <element attributes="edge_encryption_enabled=true" default="icon-document-attachment" label="ICONNew" max_length="100" name="iconnew" type="icon"/>
+        <element attributes="pdf_cell_type=image,edge_encryption_enabled=true" label="ImageNew" max_length="40" name="imagenew" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" calculation="(function calculatedFieldValue(current) {&#10;&#10;&#9;// Add your code here&#10;&#9;var t = current.journaltest;&#10;&#9;var i = current.jourinput;&#10;&#9;&#10;&#9;if (t == &quot;&quot; &amp;&amp; i == &quot;&quot;){&#10;&#9;&#9;return null;&#10;&#9;}&#10;&#9;else if (t == &quot;&quot; &amp;&amp; i != &quot;&quot;) {&#10;&#9;&#9;&#10;&#9;&#9;return  &quot;[code]&lt;b&gt;&lt;u&gt;Journal Input&lt;/u&gt;: &lt;/b&gt;[/code]&quot;  + i;&#10;&#9;}&#10;&#9;else if(t != &quot;&quot; &amp;&amp;  i == &quot;&quot;){&#10;&#9;&#9;&#9;return &quot;Journal Test: &quot; + t;&#10;&#9;}&#10;&#9;else{&#10;&#9;  return &quot;Journal Test: &quot; + t + &quot; &lt;br/&gt; Journal Input: &quot; + i ; // return the calculated value&#9;&#10;&#9;}&#10;&#9;&#10;&#10;})(current);" label="JList" max_length="4000" name="jlist" type="journal_list" virtual="true"/>
+        <element label="JourInput" max_length="50" name="jourinput" type="journal_input"/>
+        <element label="JournalNew" max_length="4000" name="journalnew" type="journal"/>
+        <element label="JournalTest" max_length="50" name="journaltest" type="journal"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true,edge_encryption_enabled=true" label="ListNew" max_length="4000" name="listnew" reference="x_322420_markevent_event_details" type="glide_list"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true,edge_encryption_enabled=true" label="LstEvenets" max_length="4000" name="lstevenets" reference="x_322420_markevent_event_details" type="glide_list"/>
+        <element attributes="pn_display_territory_text=all,pn_display_territory_selector=false,edge_encryption_enabled=true" label="Phone Number" max_length="40" name="phonenumbernew" type="phone_number_e164"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer,edge_encryption_enabled=true" label="PriceNew" max_length="20" name="pricenew" type="price"/>
+        <element default="Draft" label="Status" max_length="50" name="status" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TimeNew" max_length="40" name="timenew" type="glide_time"/>
+        <index name="index">
+            <element name="event_name"/>
+        </index>
+    </element>
+</database>

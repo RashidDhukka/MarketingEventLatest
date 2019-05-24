@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <alt/>
+        <element>attachments</element>
+        <name>x_322420_markevent_attendees</name>
+        <style>background-image: url("/images/icons/attachment_note.gif");&#13;
+background-repeat: no-repeat;&#13;
+backgroupd-position: center center;&#13;
+text-align: center;&#13;
+color:red;</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-18 11:19:51</sys_created_on>
+        <sys_id>16f2d5434f7c3300e41aa88ca310c720</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>x_322420_markevent_attendees</sys_name>
+        <sys_package display_value="Marketing Event Application" source="x_322420_markevent">d58c10d94f403300e41aa88ca310c78c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Event Application">d58c10d94f403300e41aa88ca310c78c</sys_scope>
+        <sys_update_name>sys_ui_style_16f2d5434f7c3300e41aa88ca310c720</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-18 11:32:27</sys_updated_on>
+        <value>javascript:current.attachments &gt; 0</value>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=16f2d5434f7c3300e41aa88ca310c720"/>
+</record_update>
