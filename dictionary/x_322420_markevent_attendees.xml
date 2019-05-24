@@ -21,7 +21,7 @@
         <element attributes="edge_encryption_enabled=true" label="Event Name" max_length="40" name="event_name" reference="x_322420_markevent_event_details" type="reference" use_dependent_field="true"/>
         <element attributes="edge_encryption_enabled=true" label="FAttachment" max_length="40" name="fattachment" type="file_attachment"/>
         <element attributes="edge_encryption_enabled=true" label="FileNew" max_length="40" name="filenew" type="file_attachment"/>
-        <element audit="true" default="Enter Your Name" label="First Name L" max_length="40" name="first_name" type="string"/>
+        <element audit="true" default="Enter Your Name" label="First Name New" max_length="40" name="first_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="HTMLNew" max_length="8000" name="htmlnew" type="html"/>
         <element attributes="edge_encryption_enabled=true" default="icon-document-attachment" label="ICONNew" max_length="100" name="iconnew" type="icon"/>
         <element attributes="pdf_cell_type=image,edge_encryption_enabled=true" label="ImageNew" max_length="40" name="imagenew" type="user_image"/>
