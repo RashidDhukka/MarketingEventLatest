@@ -53,7 +53,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-03-15 10:51:42</sys_created_on>
-        <sys_id>dc93d6e24fa17300e41aa88ca310c7ed</sys_id>
+        <sys_id>4d6f92224fe17300e41aa88ca310c71f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Phone Number</sys_name>
         <sys_package display_value="Marketing Event Application" source="x_322420_markevent">d58c10d94f403300e41aa88ca310c78c</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="Marketing Event Application">d58c10d94f403300e41aa88ca310c78c</sys_scope>
         <sys_update_name>sys_dictionary_x_322420_markevent_attendees_phonenumbernew</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-05-24 09:45:30</sys_updated_on>
+        <sys_updated_on>2019-05-24 10:30:11</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

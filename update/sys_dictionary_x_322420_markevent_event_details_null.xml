@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-03-07 11:02:26</sys_created_on>
-        <sys_id>b46156ee4f617300e41aa88ca310c772</sys_id>
+        <sys_id>386f52224fe17300e41aa88ca310c7d6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_322420_markevent_event_details</sys_name>
         <sys_package display_value="Marketing Event Application" source="x_322420_markevent">d58c10d94f403300e41aa88ca310c78c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Marketing Event Application">d58c10d94f403300e41aa88ca310c78c</sys_scope>
         <sys_update_name>sys_dictionary_x_322420_markevent_event_details_NULL</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2019-05-24 09:31:09</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-24 10:30:13</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
